@@ -1,0 +1,40 @@
+# Authors
+
+Tanya Somova:
+  name        : "Tanya Somova"
+  bio         : "something about me."
+  avatar      : "/assets/images/tanya.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:tanya.somovak@d-i-ply.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://thewhip.com"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
+
+Cameron Stewart:
+  name        : "Cameron Stewart"
+  bio         : "something about Cameron here"
+  avatar      : "/assets/images/cameron.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cameron.stewart@d-i-ply"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
+
+Carla:
+  name        : "Carla"
+  bio         : "something about Carla here"
+  avatar      : "/assets/images/carla.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cameron.stewart@d-i-ply"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
