@@ -11,11 +11,11 @@ minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : "D-I-Ply"
+title                    : "d-i-ply"
 title_separator          : "-"
-subtitle                 : "CNC service and design"
-name                     : "D-I-Ply"
-description              : "D-I-Ply portfolio."
+subtitle                 : "Kitsets, CNC fabrication service and custom design services"
+name                     : "d-i-ply"
+description              : "d-i-ply portfolio."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "" #"/test"
 repository               : tanya-somova/d-i-ply # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -87,20 +87,23 @@ analytics:
 
 # Site Author
 author:
-  name             : "D-I-Ply"
+  name             : "d-i-ply"
   avatar           : "/assets/images/D-I-PLY-icon_1.png"
-  bio              : "We create **amazing** products and provide great service!"
+  bio              : "Local experts in digital design and fabrication"
   location         : "Auckland"
   links:
-    - label: "Your Website"
+    - label: "Home"
       icon: "fas fa-fw fa-link"
-      url: "https://your-site.com"
+      url: "https://d-i-ply.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/diplyfurniture/"
+      label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/diplyfurniture"
 
 
 # Site Footer
@@ -111,7 +114,7 @@ footer:
       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/diplyfurniture"
 
 
 # Reading Files

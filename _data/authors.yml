@@ -17,12 +17,12 @@ Tanya Somova:
 
 Cameron Stewart:
   name        : "Cameron Stewart"
-  bio         : "something about Cameron here"
+  bio         : "Civil Engineer and lifelong maker"
   avatar      : "/assets/images/cameron.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:cameron.stewart@d-i-ply"
+      url: "mailto:cameron@d-i-ply"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
@@ -34,7 +34,7 @@ Carla:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:cameron.stewart@d-i-ply"
+      url: "mailto:carla@d-i-ply"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
