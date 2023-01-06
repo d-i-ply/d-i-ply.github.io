@@ -11,7 +11,7 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/furniture/chair-background.jpg
+  overlay_image: /assets/images/furniture/chair-background.png
   actions:
     - label: "Learn More"
       url: "/furniture/more/"
@@ -34,7 +34,7 @@ feature_row2:
 
 feature_row:
     #1 - chair
-  - image_path: /assets/images/furniture/chair.jpg
+  - image_path: /assets/images/furniture/chair.png
     image_caption: "Image courtesy of [Chair](https://d-i-ply.com/)"
     alt: "P9 Chair - Alejandro Palandjoglou"
     title: "P9 Chair"
