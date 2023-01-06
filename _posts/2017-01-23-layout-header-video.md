@@ -1,7 +1,7 @@
 ---
 title: "Layout: Header Video"
 header:
-  teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
+  teaser: "assets/images/markup-syntax-highlighting-teaser.png"
   video:
     id: XsxDH4HcOWA
     provider: youtube

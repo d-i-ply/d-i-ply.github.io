@@ -24,7 +24,7 @@ intro:
 
 # aligned left
 feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/unsplash-gallery-image-2-th.png
     alt: "placeholder image 2"
     title: "Placeholder Image Left Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
@@ -43,7 +43,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
     #2 - table
-  - image_path: /assets/images/furniture/table.jpg
+  - image_path: /assets/images/furniture/table.png
     alt: "Wave table"
     title: "Wave table"
     excerpt: "This is some content about wave table."
@@ -51,7 +51,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
     #3 - lamp
-  - image_path: /assets/images/furniture/lamp.jpg
+  - image_path: /assets/images/furniture/lamp.png
     title: "Parametric Lamp"
     alt: "Parametric Lamp"
     excerpt: "This is some content about Parametric lamp."

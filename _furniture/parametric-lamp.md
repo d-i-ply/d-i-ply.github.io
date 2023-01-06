@@ -7,11 +7,11 @@ tags:
   - Parametric design
   - CNC
 gallery:
-  - url: /assets/images/furniture/lamp-1.jpg
-    image_path: /assets/images/furniture/lamp-1.jpg
+  - url: /assets/images/furniture/lamp-1.png
+    image_path: /assets/images/furniture/lamp-1.png
     alt: "lamp-1"
-  - url: /assets/images/furniture/lamp-2.jpg
-    image_path: /assets/images/furniture/lamp-2.jpg
+  - url: /assets/images/furniture/lamp-2.png
+    image_path: /assets/images/furniture/lamp-2.png
     alt: "lamp-2"
 
 ---

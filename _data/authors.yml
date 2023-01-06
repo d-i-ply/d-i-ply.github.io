@@ -3,7 +3,7 @@
 Tanya Somova:
   name        : "Tanya Somova"
   bio         : "something about me."
-  avatar      : "/assets/images/tanya.jpg"
+  avatar      : "/assets/images/tanya.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -18,7 +18,7 @@ Tanya Somova:
 Cameron Stewart:
   name        : "Cameron Stewart"
   bio         : "Civil Engineer and lifelong maker"
-  avatar      : "/assets/images/cameron.jpg"
+  avatar      : "/assets/images/cameron.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -30,7 +30,7 @@ Cameron Stewart:
 Carla:
   name        : "Carla"
   bio         : "something about Carla here"
-  avatar      : "/assets/images/carla.jpg"
+  avatar      : "/assets/images/carla.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

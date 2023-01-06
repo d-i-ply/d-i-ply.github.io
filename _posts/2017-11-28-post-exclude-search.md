@@ -5,7 +5,7 @@ categories:
   - Jekyll
 last_modified_at: 2018-02-19T08:05:34-05:00
 header:
-  teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
+  teaser: "assets/images/markup-syntax-highlighting-teaser.png"
 author: Tanya Somova
 ---
 

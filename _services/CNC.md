@@ -5,7 +5,7 @@ categories:
 tags:
   - Post Formats
 header:
-  teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
+  teaser: "assets/images/markup-syntax-highlighting-teaser.png"
 author: Cameron Stewart
 ---
 
