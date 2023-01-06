@@ -3,13 +3,13 @@ main:
   - title: "About"
     url: /about/
   - title: "Furniture"
-    url: /splash-page/
-  - title: "Campervans"
-    url: /splash-page/
+    url: /furniture/
+  - title: "Campervan"
+    url: /cmpervan/
   - title: "Surf collection"
-    url: /splash-page/
+    url: /surf-collection/
   - title: "Services"
-    url: /splash-page/
+    url: /services/
   - title: "Collections"
     url: /collection-archive/
   - title: "Posts"

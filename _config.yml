@@ -248,13 +248,15 @@ collections:
   campervan:
     output: true
     permalink: /:collection/:path/
-  surf:
+  surf-collection:
     output: true
     permalink: /:collection/:path/
   services:
     output: true
     permalink: /:collection/:path/
-
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 # Defaults
 defaults:
   # _posts
@@ -277,7 +279,7 @@ defaults:
   # _furniture
   - scope:
       path: ""
-      type: camervan
+      type: furniture
     values:
       layout: single
       author_profile: true
@@ -293,7 +295,7 @@ defaults:
   # _surf
   - scope:
       path: ""
-      type: surf
+      type: surf-cllection
     values:
       layout: single
       author_profile: true
@@ -302,6 +304,14 @@ defaults:
   - scope:
       path: ""
       type: services
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
     values:
       layout: single
       author_profile: true
