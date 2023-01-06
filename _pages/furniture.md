@@ -7,11 +7,10 @@ collection: furniture
 entries_layout: list #grid
 classes: wide
 
-date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/furniture/chair-background.png
+  overlay_image: /assets/images/furniture/chair-bg.png
   actions:
     - label: "Learn More"
       url: "/furniture/more/"
@@ -19,18 +18,6 @@ header:
 excerpt: "Are you a designer interested in having your ideas made real?
 Want to make a passive income?
 Submit your design here and get started.."
-intro: 
-  - excerpt: 'Add your design into our product range and other people will get the opportunity to build and own YOUR design. Not only that, you will get an attractive fee for each of your designs sold!'
-
-# aligned left
-feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.png
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "details"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 
 feature_row:
     #1 - chair
@@ -38,15 +25,15 @@ feature_row:
     image_caption: "Image courtesy of [Chair](https://d-i-ply.com/)"
     alt: "P9 Chair - Alejandro Palandjoglou"
     title: "P9 Chair"
-    excerpt: "Designed by renowned Argentinean industrial designer Alejandro Palandjoglou, the P9 chair series combines form with function."
+    excerpt: "Designed by renowned Argentinean designer Alejandro Palandjoglou."
     url: "furniture/p9-chair"
     btn_label: "Read More"
     btn_class: "btn--primary"
     #2 - table
-  - image_path: /assets/images/furniture/table.png
+  - image_path: /assets/images/furniture/table-teaser.png
     alt: "Wave table"
     title: "Wave table"
-    excerpt: "This is some content about wave table."
+    excerpt: "This is some content about wave table. And some more content"
     url: "vawe-table"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -60,6 +47,6 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row id="intro" type="center" %}
+Add your design into our product range and other people will get the opportunity to build and own YOUR design. Not only that, you will get an attractive fee for each of your designs sold!
 
 {% include feature_row %}

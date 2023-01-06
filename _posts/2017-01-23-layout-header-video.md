@@ -1,7 +1,7 @@
 ---
-title: "Layout: Header Video"
+title: "Post 1"
 header:
-  teaser: "assets/images/markup-syntax-highlighting-teaser.png"
+  teaser: "assets/images/posts/D-I-PLY-logo-mustard-block.png"
   video:
     id: XsxDH4HcOWA
     provider: youtube

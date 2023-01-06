@@ -1,5 +1,5 @@
 ---
-title: "Page B"
+title: "About"
 permalink: /about/
 ---
 
