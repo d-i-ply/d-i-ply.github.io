@@ -4,7 +4,7 @@ permalink: /about/
 ---
 
 what we do
-We use modern manufacturing techniques to cut the raw materials into highly-precise and detailed components. We then package this with instructions, tools, fixings, glues and sealants to provide the customer with all they need to construct their own piece of designer furniture. 
+We use modern manufacturing techniques to cut the quality materials into precise and detailed components. We then package this with instructions, tools, fixings, glues and sealants to provide the customer with all they need to construct their own piece of designer furniture. 
 
 how we collaborate with designers
 We research good designs and select those that we think could be adopted by us for fabrication. We approach designers and offer them the opportunity to manufacture their product(s) on their behalf. We offer an attractive licencing fee for each unit sold to ensure their good work is duly rewarded.
