@@ -23,6 +23,10 @@ This post should display a **header with a responsive video**, if the theme supp
 | `id`       | **Required** | ID of the video |
 | `provider` | **Required** | Hosting provider of the video, either `youtube` or `vimeo` |
 
+
+<iframe src="https://captures.lumalabs.ai/embed/rewarding-spellbinding-3d-156805?mode=slf&background=%23ffffff&color=%23000000&showTitle=false&loadBg=false&logoPosition=bottom-left&infoPosition=bottom-right&cinematicVideo=undefined&showMenu=false" width="375" height="500" frameborder="0" title="luma embed" style="border: none;"></iframe>
+
+
 ### YouTube
 
 To embed the following YouTube video at url `https://www.youtube.com/watch?v=XsxDH4HcOWA` (long version) or `https://youtu.be/XsxDH4HcOWA` (short version) into a post or page's main content you'd use: 
