@@ -11,26 +11,15 @@ tags:
   - ford
 ---
 
-## High Roof
 
-| Sub-model        | Cargo Volume (liters) | Cargo Length at Floor (cm) | Cargo Width Between Wheelhouses (cm) | Cargo Height (cm) |
-|------------------|-----------------------|------------------------------|---------------------------------------|--------------------|
-| Long Wheelbase    | 13,801                | 437.7                        | 139.2                                 | 207.0              |
-| Medium Wheelbase  | 12,005                | 365.4                        | 139.2                                 | 207.0              |
-| Short Wheelbase   | 6,987                 | 263.2                        | 139.2                                 | 207.0              |
-
-## Medium Roof
-
-| Sub-model        | Cargo Volume (liters) | Cargo Length at Floor (cm) | Cargo Width Between Wheelhouses (cm) | Cargo Height (cm) |
-|------------------|-----------------------|------------------------------|---------------------------------------|--------------------|
-| Long Wheelbase    | 11,449                | 437.7                        | 139.2                                 | 182.9              |
-| Medium Wheelbase  | 9,823                 | 365.4                        | 139.2                                 | 182.9              |
-| Short Wheelbase   | 6,987                 | 263.2                        | 139.2                                 | 182.9              |
-
-## Low Roof
-
-| Sub-model        | Cargo Volume (liters) | Cargo Length at Floor (cm) | Cargo Width Between Wheelhouses (cm) | Cargo Height (cm) |
-|------------------|-----------------------|------------------------------|---------------------------------------|--------------------|
-| Long Wheelbase    | 6,987                 | 437.7                        | 139.2                                 | 144.5              |
-| Medium Wheelbase  | 6,987                 | 365.4                        | 139.2                                 | 144.5              |
-| Short Wheelbase   | 6,356                 | 263.2                        | 139.2                                 | 144.5              |
+| Car Model / Make / Year | Roof Height | Wheelbase | Cargo Length (mm) | Cargo Width (mm) | Cargo Height (mm) |
+| -----------------------| -----------| ---------| ----------------- | ---------------- | ----------------- |
+| Ford Transit 2010      | Low        | Long    | 2937              | 1762             | 1413              |
+| Ford Transit 2010      | Low        | Medium  | 2555              | 1762             | 1413              |
+| Ford Transit 2010      | Low        | Short   | 2070              | 1762             | 1413              |
+| Ford Transit 2010      | Medium     | Long    | 3399              | 1762             | 1736              |
+| Ford Transit 2010      | Medium     | Medium  | 3023              | 1762             | 1736              |
+| Ford Transit 2010      | Medium     | Short   | 2538              | 1762             | 1736              |
+| Ford Transit 2010      | High       | Long    | 4071              | 1762             | 2090              |
+| Ford Transit 2010      | High       | Medium  | 3705              | 1762             | 2090              |
+| Ford Transit 2010      | High       | Short   | 3220              | 1762             | 2090              |

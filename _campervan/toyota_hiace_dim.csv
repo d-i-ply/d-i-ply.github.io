@@ -1,0 +1,18 @@
+Model,Make,Generation,Roof Height,Wheelbase,Length (mm),Width (mm),Height (mm),Year
+HiAce Van,Toyota,1st,Low Roof,2400,2400,1460,1350,1968-1977
+HiAce Van,Toyota,1st,Low Roof,2570,2570,1460,1350,1968-1977
+HiAce Van,Toyota,1st,High Roof,2570,2570,1460,1810,1968-1977
+HiAce Van,Toyota,2nd,Low Roof,2380,2350,1430,1260,1977-1982
+HiAce Van,Toyota,2nd,Low Roof,2570,2570,1460,1350,1977-1982
+HiAce Van,Toyota,2nd,High Roof,2570,2570,1460,1810,1977-1982
+HiAce Van,Toyota,3rd,Low Roof,2330,2435,1635,1315,1982-1989
+HiAce Van,Toyota,3rd,Low Roof,2570,2570,1635,1315,1982-1989
+HiAce Van,Toyota,3rd,High Roof,2570,2570,1830,1830,1982-1989
+HiAce Van,Toyota,4th,Low Roof,2335,2570,1780,1470,1989-2004
+HiAce Van,Toyota,4th,Low Roof,2730,2950,1880,1550,1989-2004
+HiAce Van,Toyota,4th,High Roof,2570,2570,1780,1965,1989-2004
+HiAce Van,Toyota,4th,High Roof,2950,2950,1880,1985,1989-2004
+HiAce Van,Toyota,5th,Low Roof,2570,3210,2155,1630,2004-2019
+HiAce Van,Toyota,5th,High Roof,2570,3210,2395,1820,2004-2019
+HiAce Van,Toyota,6th,Low Roof,2580,3210,2165,1620,2019-present
+HiAce Van,Toyota,6th,High Roof,2590,3860,2990,1900,2019-present

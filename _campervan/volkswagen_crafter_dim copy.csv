@@ -1,0 +1,13 @@
+Model,Make,Generation,Year,Roof Height,Wheelbase,Length (mm),Width (mm),Height (mm),Years with same dimensions
+Crafter, Volkswagen, 1st Generation, 2006-2016, Standard, Short, 2586, 1780, 1662, 2006-2016
+Crafter, Volkswagen, 1st Generation, 2006-2016, Standard, Medium, 3086, 1780, 1662, 2006-2016
+Crafter, Volkswagen, 1st Generation, 2006-2016, Standard, Long, 3555, 1780, 1662, 2006-2016
+Crafter, Volkswagen, 1st Generation, 2006-2016, High, Short, 2586, 1780, 1940, 2006-2016
+Crafter, Volkswagen, 1st Generation, 2006-2016, High, Medium, 3086, 1780, 1940, 2006-2016
+Crafter, Volkswagen, 1st Generation, 2006-2016, High, Long, 3555, 1780, 1940, 2006-2016
+Crafter, Volkswagen, 2nd Generation, 2016-2021, Standard, Short, 2582, 1780, 1662, 2016-2021
+Crafter, Volkswagen, 2nd Generation, 2016-2021, Standard, Medium, 3082, 1780, 1662, 2016-2021
+Crafter, Volkswagen, 2nd Generation, 2016-2021, Standard, Long, 3640, 1780, 1662, 2016-2021
+Crafter, Volkswagen, 2nd Generation, 2016-2021, High, Short, 2582, 1780, 1940, 2016-2021
+Crafter, Volkswagen, 2nd Generation, 2016-2021, High, Medium, 3082, 1780, 1940, 2016-2021
+Crafter, Volkswagen, 2nd Generation, 2016-2021, High, Long, 3640, 1780, 1940, 2016-2021

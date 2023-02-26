@@ -1,0 +1,31 @@
+Model,Make,Generation,Year,Roof Height,Wheelbase,Length (mm),Width (mm),Height (mm),Years with same dimensions
+Transit, Ford, 1st Generation, 1965-1978, Low, Short, 2459, 1683, 1308, 1965-1978
+Transit, Ford, 1st Generation, 1965-1978, Low, Long, 2956, 1683, 1308, 1965-1978
+Transit, Ford, 1st Generation, 1965-1978, Medium, Short, 2459, 1683, 1626, 1965-1978
+Transit, Ford, 1st Generation, 1965-1978, Medium, Long, 2956, 1683, 1626, 1965-1978
+Transit, Ford, 1st Generation, 1965-1978, High, Short, 2459, 1683, 1860, 1965-1978
+Transit, Ford, 1st Generation, 1965-1978, High, Long, 2956, 1683, 1860, 1965-1978
+Transit, Ford, 2nd Generation, 1978-1986, Low, Short, 2459, 1683, 1308, 1978-1986
+Transit, Ford, 2nd Generation, 1978-1986, Low, Long, 2956, 1683, 1308, 1978-1986
+Transit, Ford, 2nd Generation, 1978-1986, Medium, Short, 2459, 1683, 1626, 1978-1986
+Transit, Ford, 2nd Generation, 1978-1986, Medium, Long, 2956, 1683, 1626, 1978-1986
+Transit, Ford, 2nd Generation, 1978-1986, High, Short, 2459, 1683, 1860, 1978-1986
+Transit, Ford, 2nd Generation, 1978-1986, High, Long, 2956, 1683, 1860, 1978-1986
+Transit, Ford, 3rd Generation, 1986-2000, Low, Short, 2495, 1695, 1415, 1986-2000
+Transit, Ford, 3rd Generation, 1986-2000, Low, Long, 2992, 1695, 1415, 1986-2000
+Transit, Ford, 3rd Generation, 1986-2000, Medium, Short, 2495, 1695, 1720, 1986-2000
+Transit, Ford, 3rd Generation, 1986-2000, Medium, Long, 2992, 1695, 1720, 1986-2000
+Transit, Ford, 3rd Generation, 1986-2000, High, Short, 2495, 1695, 1940, 1986-2000
+Transit, Ford, 3rd Generation, 1986-2000, High, Long, 2992, 1695, 1940, 1986-2000
+Transit Custom, Ford, 4th Generation, 2012-2021, Low, Short, 2555, 1775, 1406, 2012-2021
+Transit Custom, Ford, 4th Generation, 2012-2021, Low, Long, 3064, 1775, 1406, 2012-2021
+Transit Custom, Ford, 4th Generation, 2012-2021, Medium, Short, 2555, 1775, 1786, 2012-2021
+Transit Custom, Ford, 4th Generation, 2012-2021, Medium, Long, 3064, 1775, 1786, 2012-2021
+Transit Custom, Ford, 4th Generation, 2012-2021, High, Short, 2555, 1775, 2030, 2012-2021
+Transit Custom, Ford, 4th Generation, 2012-2021, High, Long, 3064, 1775, 2030, 2012-2021
+Transit, Ford, 5th Generation, 2014-present, Low, Short, 2582, 1764, 1392, 2014-present
+Transit, Ford, 5th Generation, 2014-present, Low, Long, 3033, 1764, 1392, 2014-present
+Transit, Ford, 5th Generation, 2014-present, Medium, Short, 2582, 1764, 1786, 2014-present
+Transit, Ford, 5th Generation, 2014-present, Medium, Long, 3033, 1764, 1786, 2014-present
+Transit, Ford, 5th Generation, 2014-present, High, Short, 2582, 1764, 2091, 2014-present
+Transit, Ford, 5th Generation, 2014-present, High, Long, 3033, 1764, 2091, 2014-present
