@@ -1,24 +1,26 @@
 ---
 title: "Surf's Up!"
-excerpt: "Your favourite board. From the best angle."
-header:
-  image: /assets/images/surf/surfrack.png
-  teaser: /assets/images/surf/surfrack.png
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
-gallery:
-  - url: /assets/images/surf/surfrack.png
-    image_path: assets/images/surf/surfrack.png
-    alt: "surfrack.png"
-
+categories:
+  - Furniture
+tags:
+  - Surfrack
+  - Water sports
+  - CNC
+gallery1:
+  - url: /assets/images/surf/surfrack_single_5.png
+    image_path: /assets/images/surf/surfrack_single_5.png
+    alt: "surfs-up"
+  - url: /assets/images/surf/surfrack_single_4.png
+    image_path: /assets/images/surf/surfrack_single_4.png
+    alt: "surfs-up"
+gallery2:
+  - url: /assets/images/surf/surfrack_single_6.png
+    image_path: /assets/images/surf/surfrack_single_6.png
+    alt: "surfs-up"
 ---
-
-Surf's-Up! Surfrack
+{% include gallery id="gallery1" %}
+{% include gallery id="gallery2" %}
+## Surf's-Up! Surfrack
 
 Your favourite board. From the best angle. 
 

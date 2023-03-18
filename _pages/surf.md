@@ -10,41 +10,38 @@ classes: wide
 author_profile: true
 
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_color: "#FFF"
+  overlay_filter: "0"
   overlay_image: /assets/images/surf/surf-bg.png
   actions:
     - label: "Learn More"
       url: "/surf/more/"
-  caption: "Photo credit: [**Cameron?**](https://d-i-ply.com/)"
-excerpt: "Are you a designer interested in having your ideas made real?
-Want to make a passive income?
-Submit your design here and get started.."
+  caption: "Photo credit: [**Tanya Somova**](https://d-i-ply.com/)"
+excerpt: "We are getting into surfing and you should too! Check out our range of surf accessories to help get organised"
 
 feature_row:
     #1 - chair
-  - image_path: /assets/images/furniture/chair.png
-    image_caption: "Image courtesy of [Chair](https://d-i-ply.com/)"
-    alt: "P9 Chair - Alejandro Palandjoglou"
-    title: "P9 Chair"
-    excerpt: "Designed by renowned Argentinean designer Alejandro Palandjoglou."
-    url: "furniture/p9-chair"
+  - image_path: /assets/images/surf/surfrack_single_2.png
+    alt: "The wave"
+    title: "The wave"
+    excerpt: "This rack tells stories of surfing. A unique design to display multipe boards"
+    url: "surf/the-wave/"
     btn_label: "Read More"
     btn_class: "btn--primary"
     #2 - table
-  - image_path: /assets/images/furniture/table-teaser.png
-    alt: "Wave table"
-    title: "Wave table"
-    excerpt: "This is some content about wave table. And some more content"
-    url: "vawe-table"
+  - image_path: /assets/images/surf/surfrack_single_2.png
+    alt: "Surf's Up"
+    title: "Surf's Up"
+    excerpt: "Your favourite board. From the best angle. It can be ordered in a variety of sizes for kite, short and longboards."
+    url: "surf/surfs-up"
     btn_label: "Read More"
     btn_class: "btn--primary"
     #3 - lamp
-  - image_path: /assets/images/furniture/lamp.png
-    title: "Parametric Lamp"
-    alt: "Parametric Lamp"
-    excerpt: "This is some content about Parametric lamp."
-    url: "furniture/parametric-lamp"
+  - image_path: /assets/images/surf/surfrack_single_2.png
+    title: "Multi-fin"
+    alt: "Multi-fin"
+    excerpt: "This rack comes in single, twin, thruster (3) and quad variants. Designed by Cameron Stewart."
+    url: "surf/multi-fin"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---

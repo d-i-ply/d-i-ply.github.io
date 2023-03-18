@@ -175,6 +175,7 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     -webkit-animation: $intro-transition;
+    animation-fill-mode: forwards;
     animation: $intro-transition;
     -webkit-animation-delay: 0.25s;
     animation-delay: 0.25s;
