@@ -37,7 +37,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
     #3 - lamp
-  - image_path: /assets/images/surf/surfrack_single_2.png
+  - image_path: /assets/images/surf/surfrack_multi_1.png
     title: "Multi-fin"
     alt: "Multi-fin"
     excerpt: "This rack comes in single, twin, thruster (3) and quad variants. Designed by Cameron Stewart."

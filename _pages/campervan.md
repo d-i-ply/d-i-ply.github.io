@@ -10,12 +10,12 @@ classes: wide
 
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0"
   overlay_image: /assets/images/campervan/everything-butter-bg.png
   actions:
     - label: "Learn More"
       url: "/furniture/more/"
-  caption: "Photo credit: [**Cameron?**](https://d-i-ply.com/)"
+  caption: "Photo credit: [**Tanya Somova**](https://d-i-ply.com/)"
 excerpt: "Are you a designer interested in having your ideas made real?
 Want to make a passive income?
 Submit your design here and get started.."
